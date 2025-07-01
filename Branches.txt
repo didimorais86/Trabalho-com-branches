@@ -1,1 +1,2 @@
 tutorial de como fazer branches
+comandos para comitar arquivos.
